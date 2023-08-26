@@ -21,8 +21,8 @@ Olá! Eu sou Guilherme Battisti Borba, um entusiasta da programação e do desig
 
 ## Como Entrar em Contato
 
-- LinkedIn: [(https://www.linkedin.com/in/guilherme-battisti-borba/)](Link para o LinkedIn)
-- Twitter: [https://twitter.com/_l4yn_](Link para o Twitter)
+- LinkedIn: (https://www.linkedin.com/in/guilherme-battisti-borba/)
+- Twitter: https://twitter.com/_l4yn_
 
 
 ## Estatísticas do GitHub
