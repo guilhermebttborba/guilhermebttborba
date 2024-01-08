@@ -1,34 +1,30 @@
-# Bem-vindo ao meu Perfil do GitHub!
+# Sobre Guilherme Battisti Borba
 
-## Sobre Mim
-Olá! Eu sou Guilherme Battisti Borba, um entusiasta da programação e do design de jogos, atualmente estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por criar soluções tecnológicas me levou a explorar várias áreas, incluindo programação em Java e C#, desenvolvimento web com Spring, e meu amor pela criação de jogos.
+Olá! 👋 Meu nome é Guilherme Battisti Borba, um entusiasta da programação buscando oportunidades no mundo da tecnologia. Atualmente, estou focado no aprendizado das seguintes tecnologias:
 
-- 🔭 Atualmente trabalhando no projeto Entra21
-- 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas
-- 💬 Vamos conversar sobre programação, game design e tecnologia!
+- **HTML:** Linguagem de marcação essencial para a estruturação de páginas web.
+- **CSS:** Estilização de páginas web para torná-las visualmente atraentes e responsivas.
+- **JavaScript:** Linguagem de programação fundamental para tornar as páginas web dinâmicas e interativas.
+- **Python:** Linguagem versátil utilizada em desenvolvimento web, automação, análise de dados e muito mais.
 
-## Habilidades
+## Objetivos Profissionais 🚀
 
-- Linguagens de Programação: Java, C#
-- Frameworks: Spring (Java)
-- Game Design: Criação de mecânicas, narrativa e prototipagem
-- Desenvolvimento Web: HTML, CSS, JavaScript
+Estou determinado a ingressar no mercado de trabalho como desenvolvedor e aplicar os conhecimentos adquiridos em projetos práticos. Meu objetivo é contribuir para o crescimento de equipes e organizações, enquanto continuo aprimorando minhas habilidades.
 
-## Estudos e Aprendizado Contínuo
+## Projetos Pessoais 🛠️
 
-- Atualmente, estou focado em aprofundar meu conhecimento em análise de sistemas e arquitetura de software.
-- Explorando novas técnicas de game design para criar experiências de jogo envolventes.
+Atualmente, estou trabalhando em diversos projetos pessoais para aplicar e consolidar meus conhecimentos. Alguns desses projetos incluem:
 
-## Como Entrar em Contato
+- **Blog Pessoal:** Desenvolvendo um blog para compartilhar minhas experiências, aprendizados e dicas.
+- **Portfolio Online:** Criando um portfolio para exibir meus projetos e habilidades.
+- **Aplicações Web Simples:** Desenvolvendo pequenas aplicações web para praticar conceitos específicos.
 
-- LinkedIn: https://www.linkedin.com/in/guilherme-battisti-borba/
-- Twitter: https://twitter.com/_l4yn
+## Busca por Oportunidades 💼
 
+Estou ansioso para explorar oportunidades de estágio ou emprego como desenvolvedor. Aberto a desafios, estou pronto para aprender e colaborar em ambientes dinâmicos.
 
-## Estatísticas do GitHub
+## Como Entrar em Contato 📬
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebttborba)](https://github.com/anuraghazra/github-readme-stats)
+- **LinkedIn:** [Guilherme Battisti Borba](https://www.linkedin.com/in/guilherme-battisti-borba/)
 
----
-
-Obrigado por visitar meu perfil! Vamos criar coisas incríveis juntos no mundo da programação e do design de jogos.
+Se você está em busca de um profissional comprometido, dedicado e apaixonado por tecnologia, ficarei feliz em conversar e explorar oportunidades de colaboração. Vamos construir algo incrível juntos! 🚀
